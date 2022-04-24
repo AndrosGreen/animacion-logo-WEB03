@@ -15,8 +15,8 @@ body {
 }
 
 #imagen {
-    width: 100px;
-    height: 100px;
+    width: 180px;
+    height: 180px;
     animation: appear 3s,  spin 3s 4s;
 }
 
